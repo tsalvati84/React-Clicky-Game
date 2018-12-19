@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "./assets/images/react1.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "./assets/images/react2jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "./assets/images/react3.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "./assets/images/react4.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "./assets/images/react5.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "./assets/images/react6.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "./assets/images/react7.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "./assets/images/react8.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "./assets/images/react9.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "./assets/images/react10.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "./assets/images/react11.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "./assets/images/react12.jpg",
+      "clicked": false
+    }
+  ]
